@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.itemContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 20px;
+}
+.mainHeading {
+  color: #ff8542;
+}
+.button {
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  cursor: pointer;
+}

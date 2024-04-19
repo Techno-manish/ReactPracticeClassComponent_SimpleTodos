@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bgContainer {
+  height: 100vh;
+  background-color: #ffc2a0;
+  padding: 10vh 5vw;
+}
+.innerContainer {
+  width: 100%;
+  background-color: #fff;
+  padding: 30px 20px 50px 20px;
+  border-radius: 10px;
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
